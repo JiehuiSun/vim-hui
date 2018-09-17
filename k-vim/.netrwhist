@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/xyz/hui/project/doremi'
+let g:netrw_dirhist_2='/Users/xyz/hui/project/doremi_api_v2'
+let g:netrw_dirhist_3='/Users/xyz'
+let g:netrw_dirhist_4='/Users/xyz/hui/project/doremi'
+let g:netrw_dirhist_5='/Users/xyz'
+let g:netrw_dirhist_6='/Users/xyz/hui/project/doremi'
